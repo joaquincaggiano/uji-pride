@@ -1,0 +1,448 @@
+{
+  "common": {
+    "cancel": "Cancel·lar",
+    "contact": "Contacte",
+    "visitWeb": "Visitar web"
+  },
+  "errorScreen": {
+    "title": "Error inesperado",
+    "subtitle": "Ha ocurrido un error inesperado y la aplicación tiene que reiniciarse.",
+    "reset": "Reiniciar la app"
+  },
+  "homeScreen": {
+    "services": "Serveis UJI",
+    "ujipride": "Grup UJIpride",
+    "protocols": "Protocols",
+    "publications": "Publicacions",
+    "resources": "Recursos LGTBI externs",
+    "glossary": "Glossari",
+    "game": "Passaparaula"
+  },
+  "resourcesScreen": {
+    "title": "Recursos LGTBI externs",
+    "resources": {
+      "1": "Servei Orienta",
+      "2": "Associació Casda",
+      "3": "Associació Castelló LGTBI",
+      "4": "Associació Queerfest",
+      "5": "Plataforma LGTBI"
+    }
+  },
+  "resourcesDetailScreen": {
+    "title": "Recurso",
+    "more": "Accés al recurso",
+    "resource1": "Servei Orienta",
+    "resource1_desc": "El Servei Orienta ofereix una atenció integral d’assessorament i suport a lesbianes, gais, persones trans, bisexuals i intersexuals (LGTBI), els seus familiars i persones reunides. Aquest servei, que compta amb professionals multidisciplinaris de l’àmbit social, psicològic i legal, amb experiència en la realitat LGTBI, també ofereix informació i assessorament a professionals de diferents sectors que necessiten orientació especialitzada en l’àmbit del col·lectiu LGTBI.",
+    "resource2": "Associació Casda",
+    "resource2_desc": "La plataforma CASDA DIVERSA té com a objectiu contribuir al benestar i igualtat de les persones LGTBI, mitjançant la promoció i la defensa dels drets d’aquesta població, informant i formant en el respecte a la diversitat afectiu sexual, englobant totes les accions i activitats que es realitzen des de l’entitat.",
+    "resource3": "Associació Castelló LGTBI",
+    "resource3_desc": "Castelló LGTBI és una associació sense ànim de lucre que, entre altres, té l’objectiu de dignificar les persones lesbianes, gais, bisexuals, trans i intersexuals i a la no discriminació per raó d’orientació sexual, identitat de gènere, expressió de gènere, desenvolupament sexual o grup familiar.",
+    "resource4": "Associació Queerfest",
+    "resource4_desc": "Queerfest és una associació sense ànim de lucre que naix amb la finalitat de defensar els drets de les persones lesbianes, gais, bisexuals, trans i intersexuals, així com sensibilitzar i visibilitzar les realitats de la diversitat afectiu sexual i de gènere a través de l’art i la cultura.",
+    "resource5": "Plataforma LGTBI",
+    "resource5_desc": "L’objectiu general del I Pla Municipal LGTBI+ de l’Ajuntament de Castelló de la Plana és definir un conjunt integrat i sistemàtic de mesures que permeten promoure la igualtat i la no discriminació de les persones LGTBI. Aquest pla ha sigut elaborat a través de les entitats que formen part de la plataforma LGTBI de Castelló."
+  },
+  "publicationsScreen": {
+    "title": "Publicacions",
+    "modalTitle": "Paraules claus",
+    "modalBody": "LGTBIQA+, lesbiana, gai, bisexual, intersexual, transsexual, transgènere, queer, no binarie, asexual, pansexual, orientació sexual, identitat de gènere, expressió de gènere, eixida de l’armari, lgtbifòbia, estigma, estrès de les minories sexuals, homofòbia internalitzada, violència intragènere."
+  },
+  "servicesScreen": {
+    "title": "Serveis UJI",
+    "rainbow": "Punt\nRainbow",
+    "violeta": "Punt\nVioleta",
+    "igualdad": "Unitat\nd’Igualtat",
+    "diversidad": "Unitat de\nDiversitat i Discapacitat",
+    "sanitario": "Centre\nSanitari"
+  },
+  "servicesRainbowScreen": {
+    "title": "Punt Rainbow",
+    "description": "El Punt Rainbow-UJI és un punt permanent al campus que ofereix informació, orientació i assessorament jurídic i acompanyament psicològic en qüestions relacionades amb la diversitat afectiva i sexual i de gènere amb el propòsit de sensibilitzar i previndre qualsevol agressió sexista en l’àmbit de la Universitat Jaume I. Des del servei també oferim la possibilitat de sol·licitar el canvi de nom, tant d’ús comú com legal, per a l’àmbit de la Universitat Jaume I."
+  },
+  "servicesVioletaScreen": {
+    "title": "Punt Violeta",
+    "description": "El Punt Violeta-UJI és un punt permanent al campus que ofereix informació, orientació i assessorament en matèria d’assetjament sexual i violències masclistes amb el propòsit de sensibilitzar i previndre qualsevol agressió sexista en l’àmbit de la Universitat Jaume I."
+  },
+  "servicesIgualdadScreen": {
+    "title": "Unitat d’Igualtat",
+    "description": "La Universitat té un paper essencial com a transmissor de valors, per a aconseguir una societat tolerant i igualitària, en la qual es respecten els drets i llibertats fonamentals i d’igualtat entre homes i dones. La Unitat d’Igualtat té la responsabilitat de dirigir, supervisar i avaluar totes les polítiques d’igualtat entre dones i homes que es desenvolupen en la Universitat."
+  },
+  "servicesDiversidadScreen": {
+    "title": "Unitat de Diversitat i Discapacitat",
+    "description": "La Universitat Jaume I treballa amb l’estudiantat amb discapacitat i necessitats específiques de suport educatiu amb la creació del Servei d’Orientació Acadèmica i Professional. Té com a missió desenvolupar el Pla d’Inclusió per a Persones amb Discapacitat a l’UJI, amb l’objectiu de treballar per a garantir l’accessibilitat en les instal·lacions, la comunicació, la formació i sensibilització, etc."
+  },
+  "servicesSanitariosScreen": {
+    "title": "Centre Sanitari",
+    "description": "La finalitat d’aquest centre és proporcionar assistència sanitària, tant a l’estudiantat com al personal de la Universitat Jaume I, dins del mateix recinte universitari. Ofereix atenció primària de patologies comunes, per exemple cefalees, indisposicions, lumbàlgies, etc. Informació i orientació relacionades amb la salut: SIDA, tabac, etc. i disposa d’una àrea d’orientació psicològica."
+  },
+  "ujiprideScreen": {
+    "title": "Grup UJIpride",
+    "seeMore": "Veure més",
+    "join": "Uneix-te",
+    "textJoin": "Formar part del grup",
+    "description": "UJIpride és un grup LGTBI de la Universitat Jaume I, amb la finalitat de crear un espai d’expressió lliure de la pròpia sexualitat; crear una xarxa de suport per a les persones LGTBI de l’UJI; realitzar formació en qüestions relacionades amb la diversitat afectiva i sexual i de gènere, i crear un grup de voluntariat que puga ajudar en accions i campanyes de sensibilització."
+  },
+  "protocolsScreen": {
+    "title": "Protocols",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, aspernatur. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "protocol1": "Protocol en els\nsupòsits d’assetjament",
+    "protocol2": "Protocol per al\ncanvi de nom"
+  },
+  "protocolsDetailScreen": {
+    "title": "Protocolo",
+    "more": "Accés al protocol",
+    "protocol1": "Protocol en els supòsits d’assetjament en la Universitat Jaume I",
+    "protocol1_desc": "Detecció, prevenció i actuació en els supòsits d’assetjament laboral, assetjament sexual, assetjament per raó de sexe, assetjament per orientació sexual i identitat i expressió de gènere.",
+    "protocol2": "Protocol per al canvi de nom a la Universitat Jaume I",
+    "protocol2_desc": "Canvi de nom de persones transsexuals, transgènere i intersexuals."
+  },
+  "glossaryScreen": {
+    "title": "Glossari",
+    "search": "Buscar paraula",
+    "sources": "Font"
+  },
+  "gameScreen": {
+    "title": "Passaparaula",
+    "header": "Posa a prova els teus coneixements sobre diversitat afectiva-sexual i de gènere.",
+    "description": "A continuació et presentem una sèrie de definicions i has d’indicar de quina paraula es tracta. Per a això et donem una pista, la primera inicial. T’animes?",
+    "play": "Juguem-hi!",
+    "play1": "Jugar"
+  },
+  "gamePlayScreen": {
+    "title": "Passaparaula",
+    "previous": "Anterior",
+    "answer": "Escriu la resposta",
+    "skip": "Saltar",
+    "check": "Comprovar",
+    "result": "La resposta correcta és",
+    "correct": "Correcte!",
+    "next": "Següent",
+    "beginWith": "Comença amb",
+    "contain": "Conté"
+  },
+  "gameOverScreen": {
+    "title": "Passaparaula",
+    "thanks": "Gràcies per jugar!",
+    "results": "Els teus resultats són",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, aspernatur. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "exit": "Eixir"
+  },
+
+  "glossaryWords": [
+    {
+      "title": "AGÈNERE",
+      "desc": "Persona que no s’identifica amb cap gènere o sent que cap gènere li representa."
+    },
+    {
+      "title": "ALIADA",
+      "desc": "Persona o organització que obertament i activament alinea i usa els seus recursos per a defensar els drets i la dignitat de persones no cisheterosexuals i de la comunitat LGTBI."
+    },
+    {
+      "title": "ANDRÒGINA",
+      "desc": "Persona que presenta tant trets físics femenins com masculins."
+    },
+    {
+      "title": "ARMARI",
+      "desc": "La frase “Eixir de l’armari” fa referència al moment en què una persona LGTBI manifesta la seua orientació i/o identitat de manera pública."
+    },
+    {
+      "title": "ARROMÀNTIC",
+      "desc": "Orientació sexual de la persona que no experimenta atracció romàntica. Moltes persones arromàntiques experimenten atracció sexual."
+    },
+    {
+      "title": "ASEXUAL",
+      "desc": "Orientació sexual de la persona que no experimenta atracció sexual i/o desig sexual. Moltes persones asexuals experimenten atracció romàntica i estableixen vincles romàntics."
+    },
+    {
+      "title": "BIFÒBIA",
+      "desc": "Rebuig, discriminació, invisibilització, burles i altres formes de violència basades en prejudicis i estigmes cap a les persones bisexuals o que semblen ser-ho."
+    },
+    {
+      "title": "BINARISME",
+      "desc": "Concepció social que parteix de la idea que solament existeixen dos gèneres en la societat."
+    },
+    {
+      "title": "BISEXUAL",
+      "desc": "Orientació sexual de la persona que sent atracció cap a persones d’un gènere diferent del seu i del seu mateix gèner."
+    },
+    {
+      "title": "CISGÈNERE",
+      "desc": "Persona que la seua identitat sexual s’alinea amb el sexe assignat en nàixer. El prefix cis- prové del llatí “corresponent a” i és l’antònim del prefix trans-, que significa “de l’altre costat”."
+    },
+    {
+      "title": "CISHETERONORMATIVITAT",
+      "desc": "Creença que totes les persones són cisgènere i heterosexuals, fins que demostren el contrari."
+    },
+    {
+      "title": "DEMISEXUAL",
+      "desc": "Orientació sexual de la persona que únicament experimenta atracció-desig sexual després d’establir una relació intensa i un vincle fort amb una persona (aquest vincle pot ser d’anys)."
+    },
+    {
+      "title": "DRAG",
+      "desc": "Art performatiu representat en els espectacles victorians, del segle xix (el Regne Unit), que va nàixer com un element de crítica política per a qüestionar els rols de gènere que imperaven en aqueixa època a través de l’espectacle. Avui dia dins del moviment ens trobem entre altres amb els termes DRAGQUEEN: homes que el seu personatge artístic és una dona; DRAGKING: dones que el seu personatge artístic és un home."
+    },
+    {
+      "title": "ENDOHOMOFÒBIA",
+      "desc": "Discriminació cap a persones LGTBI per part de persones del propi col·lectiu."
+    },
+    {
+      "title": "ESTRÉS DE MINORIES",
+      "desc": "Teoria que argumenta que les persones LGTBI presenten nivells més alts d’estrès, pel fet de poder patir una discriminació a causa dels prejudicis i l’estigma cap al col·lectiu."
+    },
+    {
+      "title": "EXPRESSIÓ DE GÈNERE",
+      "desc": "Com et mostres sobre la base dels rols socials tradicionals de gènere (masculí, femení)."
+    },
+    {
+      "title": "GAI",
+      "desc": "Orientació sexual d’homes que se senten atrets emocionalment i/o físicament per altres homes."
+    },
+    {
+      "title": "GÈNERE",
+      "desc": "Construcció social, en relació a atributs històricament, cultural, econòmica, política i geogràfica, que són assignats a homes i dones."
+    },
+    {
+      "title": "GENDER-QUEER/GÈNERE NO BINARIE",
+      "desc": "Totes aquelles persones la identitat de gènere de les quals no es troba en els espectres de gèneres binaris (masculí i femení)."
+    },
+    {
+      "title": "GENDER-FLUID/GÈNERE FLUID",
+      "desc": "Persones que s’identifiquen amb diferents gèneres i transicionen entre dos o més gèneres de manera permanent o esporàdica."
+    },
+    {
+      "title": "GRISEXUAL",
+      "desc": "És una persona que experimenta el seu desig/atracció sexual en una àrea (grisa) intermèdia entre alosexualitat i asexualitat."
+    },
+    {
+      "title": "GSRDI",
+      "desc": "Sigles de gèneres, sexualitats i romanticismes divergents i intersex."
+    },
+    {
+      "title": "HETEROSEXIMO",
+      "desc": "Presumpció que tothom és heterosexual i que l’heterosexualitat monógama és la norma. El heterosexismo institucionalitzat significa un heterosexismo que està profundament arrelat socialment i és sistemàtic o estructural; provoca que les persones LGB se senten invisibles o aïllades."
+    },
+    {
+      "title": "HETEROSEXUAL",
+      "desc": "Orientació sexual de la persona que sent atracció cap a persones d’un gènere diferent del seu."
+    },
+    {
+      "title": "HOMOFÒBIA",
+      "desc": "Discriminació, odi, *invisibilización i altres formes de violència basades en els prejudicis i estigmes cap a les persones homosexuals."
+    },
+    {
+      "title": "HOMOFÒBIA INTERNALITZADA",
+      "desc": "Creença de manera conscient o inconscient que tenen algunes persones LGTBI que els prejudicis, estereotips i mites sobre els el col·lectiu són certs. En altres paraules, són sentiments negatius que senten cap a si mateixes per la seua orientació/identitat."
+    },
+    {
+      "title": "HSH",
+      "desc": "Homes heterosexuals que mantenen relacions sexuals amb altres homes."
+    },
+    {
+      "title": "IDENTITAT DE GÈNERE",
+      "desc": "Vivència interna sobre com una persona pensa sobre si mateixa, i com interpreta el que això significa. Pot alinear-se o no amb el seu sexe assignat en nàixer."
+    },
+    {
+      "title": "INTERSECCIONALITAT",
+      "desc": "És la interacció entre dues o més factors socials que defineixen a una persona. El sexe, el gènere, la procedència, la classe socioeconòmica, l’orientació sexual, les capacitats, com altres categories, estan interrelacionades, generant desigualtats i vulnerabilitats a patir una major discriminació."
+    },
+    {
+      "title": "INTERSEX/INTERSEXUALITATS",
+      "desc": "Terme que s’utilitza per a englobar diferents corporalitats en les quals una persona naix amb variacions de les característiques sexuals (variacions en les formes genitals, gònades, nivells hormonals i/o en els patrons cromosòmics)."
+    },
+    {
+      "title": "LESBIANA",
+      "desc": "Orientació sexual de dones que se senten atracció emocional i/o físicament per altres dones."
+    },
+    {
+      "title": "LESBOFOBIA",
+      "desc": "Discriminació, odi, *invisibilización i altres formes de violència basades en els prejudicis i estigmes cap a les dones lesbianes. Es diferencia de l’homofòbia, perquè les formes de violència i opressió són específiques en relació al gènere."
+    },
+    {
+      "title": "LGTBIFOBIA",
+      "desc": "Discriminació, odi, *invisibilización i altres formes de violència basades en els prejudicis i estigmes cap a les persones per la seua orientació sexual, identitat de gènere i/o expressió de gènere."
+    },
+    {
+      "title": "MISOGÍNIA",
+      "desc": "Discriminació, odi, *invisibilización i altres formes de violència cap a les dones i cap al femení."
+    },
+    {
+      "title": "MSM",
+      "desc": "Dones heterosexuals que mantenen relacions sexuals amb altres dones."
+    },
+    {
+      "title": "NO MONOGÀMIA ÈTICA",
+      "desc": "És un terme paraigua per a abastar diferents tipus de vincles, on no hi ha exclusivitat sexual o afectiva."
+    },
+    {
+      "title": "ORIENTACIÓ SEXUAL",
+      "desc": "Atracció física, espiritual o emocional cap a altres persones. L’orientació pot variar tant en l’objecte de desitge com en el nivell de desig."
+    },
+    {
+      "title": "PANSEXUAL",
+      "desc": "Orientació sexual de la persona que sent atracció cap a qualsevol gènere, considerant que no sols existeixen dos sexes (no binari), posant el focus de desig en la persona i no en la sexualitat."
+    },
+    {
+      "title": "PASSING",
+      "desc": "Terme que fa referència al fet de percebre a les persones trans amb una identitat cisgénero."
+    },
+    {
+      "title": "PLOMA",
+      "desc": "Persones l’expressió de gènere de les quals difereix del marcat socialment. És a dir, homes femenins i dones masculines. El rebuig a una persona per la seua expressió de gènere es coneix amb el nom de PLUMOFOBIA."
+    },
+    {
+      "title": "POLISEXUAL",
+      "desc": "Orientació sexual de la persona que sent atracció cap a qualsevol gènere (no binari) però no per igual, és a dir tendència a sentir atracció per algun sexe en concret."
+    },
+    {
+      "title": "POLIAMOR",
+      "desc": "Dins de les relacions no *monógama, és una relació romàntica o romàntica-sexual entre més de dues persones de forma consensuada, conscient i ètica."
+    },
+    {
+      "title": "QUEER",
+      "desc": "Corrent de pensament crític (a partir dels anys 80 i 90), que busca potenciar la diversitat, diferència humana en sentit ampli, i fuig de les identitats estàtiques, advocant per la versatilitat i varietat com a riquesa de les persones. Considerant que les etiquetes generen jerarquies socials."
+    },
+    {
+      "title": "QUESTIONING",
+      "desc": "Persones que es troben en un procés de qüestionament de la seua orientació i/o identitat."
+    },
+    {
+      "title": "ROL DE GÈNERE",
+      "desc": "Construcció social en relació a les conductes relacionades amb la identitat home i dona, marcant com a definició gènere masculí i femení. Aquesta construcció social varia en funció de la cultura i el temps."
+    },
+    {
+      "title": "SEXILIO",
+      "desc": "Persones que a causa de la seua orientació sexual i de gènere abandonen els seus llocs d’origen. Exili i moviments migratoris a llocs on puguen viure la seua sexualitat amb major llibertat."
+    },
+    {
+      "title": "SEXE ASSIGNAT En NÀIXER",
+      "desc": "Terme que fa referència A l’òrgan sexual assignat en nàixer (mascle, femella, intersex)."
+    },
+    {
+      "title": "STRAIGHT",
+      "desc": "Heterosexual, persona que sent atracció emocional o físicament per algú d’un altre sexe."
+    },
+    {
+      "title": "TRANS",
+      "desc": "Terme paraigua utilitzat per a descriure diferents variants de transgressió/transició/reafirmació de les persones que la seua expressió de gènere i/o identitat no s’alinea amb el seu sexe assignat en nàixer."
+    },
+    {
+      "title": "TRANSFÒBIA",
+      "desc": "Discriminació, odi, *invisibilización i altres formes de violència basades en els prejudicis i estigmes cap a les persones les persones trans."
+    },
+    {
+      "title": "TRAVESTÍ",
+      "desc": "Persona que utilitza roba i complements que socioculturalment s’han definit com a apropiats per a persones d’un altre sexe, però que no necessàriament s’identifica amb aqueix gènere."
+    }
+  ],
+
+  "gameWords": [
+    {
+      "letter": "A",
+      "title": "Asexual",
+      "desc": "Orientació sexual d’una persona que no sent atracció eròtica cap a altres persones. Pot relacionar-se afectivament i romànticament. No implica necessàriament no tindre libido, o no practicar sexe, o no poder sentir excitació."
+    },
+    {
+      "letter": "B",
+      "title": "Bisexual",
+      "desc": "Tipus d’orientació sexual en la qual se sent atracció tant per homes com per dones, indistintament."
+    },
+    {
+      "letter": "C",
+      "title": "Cisgènere",
+      "desc": "Persona que percep que la seua identitat de gènere i/o rol de gènere coincideix ‐socialment parlant‐ amb el sexe assignat en nàixer."
+    },
+    {
+      "letter": "D",
+      "title": "Demisexual",
+      "desc": "Persona que no se sentirà atreta sexualment per cap persona, independentment del seu gènere, però sí que desenvoluparà una atracció sexual cap a l’altra persona quan genere un vincle emocional (generalment, quan s’enamore)."
+    },
+    {
+      "letter": "E",
+      "title": "Estigma",
+      "desc": "És una condició, atribut, tret o comportament que fa que la persona siga inclosa en una categoria social cap als membres de la qual es genera una resposta negativa i se’ls veu com culturalment inacceptables o inferiors."
+    },
+    {
+      "letter": "F",
+      "title": "Femení",
+      "desc": "Construcció social en relació al gènere que representa les característiques, els comportaments i els rols que socioculturalment se li atribueixen a les dones."
+    },
+    {
+      "letter": "G",
+      "title": "Gènere fluid",
+      "desc": "Persona que no s’identifica amb una sola identitat de gènere, sinó que flueix entre diverses al llarg del temps."
+    },
+    {
+      "letter": "H",
+      "title": "Heteronormativitat",
+      "desc": "Ideologia dominant en la nostra societat en base a la com s’estableixen les relacions heterosexuals com la norma i patró a seguir. És a dir, la creença que totes les persones són heterosexuals fins que es demostra el contrari."
+    },
+    {
+      "letter": "I",
+      "title": "Intersexual",
+      "desc": "Persona que naix, en diversos graus i en diferents nivells, amb característiques biològiques i anatòmiques tant de mascle com de femella."
+    },
+    {
+      "letter": "K",
+      "title": "Drag King",
+      "desc": "Dones artistes de performance que personifiquen estereotips de gènere masculins com a part de la seua actuació.",
+      "contains": true
+    },
+    {
+      "letter": "L",
+      "title": "Lesbofòbia",
+      "desc": "Rebuig que pateixen les dones que senten atracció només cap a dones."
+    },
+    {
+      "letter": "M",
+      "title": "Masculí",
+      "desc": "Construcció social en relació al gènere que representa les característiques, els comportaments i els rols que socioculturalment se li atribueixen als homes."
+    },
+    {
+      "letter": "N",
+      "title": "No Binarie",
+      "desc": "Persones que no se senten identificades amb el gènere masculí o femení i que construeixen la seua identitat al marge de la lògica binària, defensant l’existència de més de dos gèneres."
+    },
+    {
+      "letter": "O",
+      "title": "Orientació sexual",
+      "desc": "Patró d’atracció sexual, eròtic o amorós cap a un determinat grup de persones definides pel seu gènere o el seu sexe."
+    },
+    {
+      "letter": "P",
+      "title": "Plumofòbia",
+      "desc": "Discriminació associada a homes amb una expressió de gènere més femenina i dones amb una expressió de gènere més masculina."
+    },
+    {
+      "letter": "Q",
+      "title": "Queer",
+      "desc": "Literalment significa rar, inusual. Teoria sobre el gènere, que afirma que l’orientació sexual i la identitat de gènere de les persones són el resultat d’una construcció social, no binària."
+    },
+    {
+      "letter": "R",
+      "title": "Rol de gènere",
+      "desc": "Codis  socials i culturals que s’empren per a distingir entre allò que es considera com a aspectes, actituds, comportaments o sentiments “masculins” i els “femenins” en una societat."
+    },
+    {
+      "letter": "S",
+      "title": "Sexe biològic",
+      "desc": "Constructe definit per la nostra anatomia. Pot ser femella, mascle o intersexual."
+    },
+    {
+      "letter": "T",
+      "title": "Transfòbia",
+      "desc": "Discriminació, aversió i rebuig a les persones transsexuals o transgènere, a la transsexualitat o a les seues manifestacions."
+    },
+    {
+      "letter": "V",
+      "title": "Travesti",
+      "desc": "Persona que utilitza roba i complements que socioculturalment s’han definit com a apropiats per a persones d’un altre sexe.",
+      "contains": true
+    },
+    {
+      "letter": "X",
+      "title": "Sexsili",
+      "desc": "Persones que, a causa de la seua orientació sexual i/o identitat de gènere, abandonen els seus llocs d’origen. Exili i moviments migratoris a llocs on puguen viure la seua sexualitat amb major llibertat.",
+      "contains": true
+    }
+  ]
+}

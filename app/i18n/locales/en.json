@@ -1,0 +1,456 @@
+{
+  "common": {
+    "cancel": "Cancel",
+    "contact": "Contact",
+    "visitWeb": "Visit the website"
+  },
+  "errorScreen": {
+    "title": "Unexpected error",
+    "subtitle": "An error has occurred and the application must be restarted.",
+    "reset": "Reset the app"
+  },
+  "homeScreen": {
+    "services": "UJI Services",
+    "ujipride": "UJI Pride Group",
+    "protocols": "Protocols",
+    "publications": "Publications",
+    "resources": "External LGTBI Resources",
+    "glossary": "Glossary",
+    "game": "Alphabetical (game)"
+  },
+  "resourcesScreen": {
+    "title": "External LGTBI Resources",
+    "resources": {
+      "1": "Orienta Service",
+      "2": "Casda Association",
+      "3": "Castelló LGTBI Association",
+      "4": "Queerfest Association",
+      "5": "LGTBI Platform"
+    }
+  },
+  "resourcesDetailScreen": {
+    "title": "Resource",
+    "more": "Access to the resource",
+    "resource1": "Orienta Service",
+    "resource1_desc": "The Orienta Service offers comprehensive counselling and support to lesbian, gay, bisexual, transgender and intersex (LGBTI) people, as well as their families and relatives. This service, offered by multidisciplinary professionals from the social, psychological and legal fields with experience with LGBTI issues, also provides information and advice to professionals from different sectors who need specialised guidance in the field of the LGBTI community.",
+    "resource2": "Casda Association",
+    "resource2_desc": "The CASDA DIVERSA platform aims to contribute to the welfare and equality of LGBTI people, by promoting and defending this population's rights,and providing information and training about respect for sexual and relationship diversity, all of which forms the basis of the actions and activities carried out by the organisation.",
+    "resource3": "Castelló LGTBI Association",
+    "resource3_desc": "Castelló LGTBI is a non-profit association that aims, among other things, to dignify lesbian,   gay,   bisexual,   transgender   and   intersex   people   and   to   promote   non- discrimination on the grounds of sexual orientation, gender identity, gender expression, sexual development or family group.",
+    "resource4": "Queerfest Association",
+    "resource4_desc": "Queerfest is a non-profit association created with the aim of defending the rights of lesbian, gay, bisexual, transgender and intersex people, as well as raising awareness and increasing the visibility of the realities of sexual, relationship and gender diversity through art and culture.",
+    "resource5": "LGTBI Platform",
+    "resource5_desc": "The general objective of the 1st Municipal LGTBI+ Plan of the Castelló de la Plana Town Council is to define a comprehensive and systematic set of measures to promote the equality and non-discrimination of LGBTI people. This plan has been drawn up by the organisations that belong to the Castelló LGTBI platform."
+  },
+  "publicationsScreen": {
+    "title": "Publications",
+    "modalTitle": "Keywords",
+    "modalBody": "LGBTIQA+, lesbian, gay, bisexual, transsexual, intersexual, transgender, queer, non-binary, asexual, pansexual, sexual orientation, gender identity, gender expression, coming out, LGBTI-phobia, stigma, sexual minority stress, internalised homophobia, violence in same-sex relationships."
+  },
+  "servicesScreen": {
+    "title": "UJI Services",
+    "rainbow": "Rainbow\nDesk",
+    "violeta": "Purple\nDesk",
+    "igualdad": "Equality\nUnit",
+    "diversidad": "Diversity and\nDisabilities Unit",
+    "sanitario": "Health\nCentre"
+  },
+  "servicesRainbowScreen": {
+    "title": "Rainbow Desk",
+    "description": "The UJI Rainbow Desk is a permanent service on campus that offers information, guidance and legal advice as well as psychological support on issues related to sexual, relationship and gender diversity with the aim of raising awareness and preventing any form of gender-based violence at the Universitat Jaume I. The service also offers the possibility of requesting a change of name, both for common and legal use within the Universitat Jaume I."
+  },
+  "servicesVioletaScreen": {
+    "title": "Purple Desk",
+    "description": "The UJI Purple Desk is a permanent service on campus that offers information, guidance and advice on sexual harassment and male violence against women with the aim of raising awareness and preventing any form of gender-based violence within the Universitat Jaume I."
+  },
+  "servicesIgualdadScreen": {
+    "title": "Equality Unit",
+    "description": "The University has an essential role as a beacon of values for building a tolerant and egalitarian society in which fundamental rights and freedoms and equality between men and women are respected. The Equality Unit is responsible for directing, supervising and evaluating all the policies concerning equality between women and men which are developed at the University."
+  },
+  "servicesDiversidadScreen": {
+    "title": "Diversity and Disabilities Unit",
+    "description": "The Universitat Jaume I has been working with students with disabilities and special educational needs since the creation of the Academic and Professional Guidance Service. Its mission is to develop the Inclusion Plan for People with Disabilities at the UJI, with the aim of working to guarantee accessibility in the facilities as well as in communication, training and awareness, etc."
+  },
+  "servicesSanitariosScreen": {
+    "title": "Health Centre",
+    "description": "The centre provides on-campus healthcare services to Universitat Jaume I students and staff. It offers primary care for common health issues such as headaches, minor ailments, lumbago, etc. as well as health-related information and guidance on matters such as AIDS, smoking, etc. It also provides psychological counselling services."
+  },
+  "ujiprideScreen": {
+    "title": "UJI Pride Group",
+    "seeMore": "See more",
+    "join": "Join us",
+    "textJoin": "Join the group",
+    "description": "UJI Pride is an LGBTI group at the Universitat Jaume I which aims to create a space for the free expression of one's own sexuality; to set up a support network for LGBTI people at the UJI; to provide training on issues related to gender, sexual and relationship diversity; and to start a group of volunteers who can help in awareness-raising actions and campaigns."
+  },
+  "protocolsScreen": {
+    "title": "Protocols",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, aspernatur. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "protocol1": "Harassment\nProtocol",
+    "protocol2": "Protocol for\nchanging your name"
+  },
+  "protocolsDetailScreen": {
+    "title": "Protocol",
+    "more": "Access to the protocol",
+    "protocol1": "Universitat Jaume I Harassment Protocol",
+    "protocol1_desc": "Detection, prevention and response in the event of workplace harassment, sexual harassment, gender-based harassment and harassment based on sexual orientation and gender identity and expression",
+    "protocol2": "Protocol for change of name at the Universitat Jaume I",
+    "protocol2_desc": "Change of name of transsexual, transgender and intersex people."
+  },
+  "glossaryScreen": {
+    "title": "Glossary",
+    "search": "Search word",
+    "sources": "Source"
+  },
+  "gameScreen": {
+    "title": "Alphabetical (game)",
+    "header": "Test your knowledge on gender, sexual and relationship diversity.",
+    "description":"Below you are given a series of definitions and you have to indicate what the word is To help you, we provide you with the first letter. Want to try?",
+    "play": "Let's play!",
+    "play1": "Play"
+  },
+  "gamePlayScreen": {
+    "title": "Alphabetical (game)",
+    "previous": "Previous",
+    "answer": "Write your answer",
+    "skip": "Skip",
+    "check": "Check",
+    "result": "The correct answer is",
+    "correct": "Correct!",
+    "next": "Next",
+    "beginWith": "Starts with",
+    "contain": "Contains"
+  },
+  "gameOverScreen": {
+    "title": "Alphabetical (game)",
+    "thanks": "Thanks for Playing!",
+    "results": "Your results are",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, aspernatur. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "exit": "Quit"
+  },
+
+
+  "glossaryWords": [
+    {
+      "title": "AGENDER",
+      "desc": ": A person who does not identify with or feel represented by any gender."
+    },
+    {
+      "title": "ALLY",
+      "desc": "Persons or organisations that openly and actively align and use their resources to defend the rights and dignity of non-cisheterosexuals and the LGBTI community."
+    },
+    {
+      "title": "ANDROGYNE",
+      "desc": "A person who presents both feminine and masculine physical features."
+    },
+    {
+      "title": "AROMANTIC",
+      "desc": "Sexual orientation of a person who does not experience romantic attraction. Many aromantic people experience sexual attraction."
+    },
+    {
+      "title": "ASEXUAL",
+      "desc": "Sexual orientation of a person who does not experience sexual attraction and/or sexual desire. Many asexual people experience romantic attraction and establish romantic attachments."
+    },
+    {
+      "title": "BINARISM",
+      "desc": "Social conception based on the idea that there are only two genders in society."
+    },
+    {
+      "title": "BIPHOBIA",
+      "desc": "Rejection, discrimination, invisibilisation, mockery and other forms of violence based on prejudice and stigma towards bisexual people or those who appear to be bisexual."
+    },
+    {
+      "title": "BISEXUAL",
+      "desc": "Sexual orientation of a person who is attracted to people of another gender as well as their own."
+    },
+    {
+      "title": "CAMP",
+      "desc": "A man who moves or speaks in a way that some people think is stereotypical of homosexuals; effeminate. The rejection of a man because of his effeminate mannerisms is known as CAMPOPHOBIA."
+    },
+    {
+      "title": "CISGENDER",
+      "desc": "Person whose sexual identity aligns with the sex assigned to them at birth. The prefix 'cis' comes from the Latin 'on this side' and is the antonym of the prefix 'trans', meaning 'on the other side'."
+    },
+    {
+      "title": "CISHETERONORMATIVITY",
+      "desc": "Belief that all people are cisgender and heterosexual, until they prove otherwise."
+    },
+    {
+      "title": "CLOSET",
+      "desc": "The phrase 'come out (of the closet)' refers to the moment when an LGBTI person publicly discloses their orientation and/or identity."
+    },
+    {
+      "title": "DEMISEXUAL",
+      "desc": "Sexual orientation of the person who only experiences sexual attraction/desire after establishing an intense relationship and a strong bond with a person (this bond can last for years)."
+    },
+    {
+      "title": "DRAG",
+      "desc": "A performative art represented in 19th century Victorian shows (United Kingdom), which was born as an element of political critique that, through shows put on for entertainment, questioned the gender roles prevailing at the time. Today within the movement we find, among others, the terms DRAG QUEEN (that is, men whose artistic character is a woman) and DRAG KING (that is, women whose artistic character is a man)."
+    },
+    {
+      "title": "ENDOHOMOPHOBIA",
+      "desc": "Discrimination against LGBTI people by members of the LGBTI community itself."
+    },
+    {
+      "title": "ETHICAL NON-MONOGAMY",
+      "desc": "An umbrella term covering different types of bonds, where there is no sexual or affective exclusivity."
+    },
+    {
+      "title": "GAY",
+      "desc": "Sexual orientation of men who are emotionally and/or physically attracted to other men."
+    },
+    {
+      "title": "GENDER",
+      "desc": "A social construction, involving historical, cultural, economic, political and geographical attributes that are assigned to men and women."
+    },
+    {
+      "title": "GENDER EXPRESSION",
+      "desc": "How a person shows themself based on traditional social gender roles (male, female)."
+    },
+    {
+      "title": "GENDER-FLUID",
+      "desc": "People who identify with different genders and transition between two or more genders either permanently or sporadically."
+    },
+    {
+      "title": "GENDER IDENTITY",
+      "desc": "Inner experience of how a person thinks about themself, and how they interpret what that means. It may or may not align with the sex assigned to them at birth."
+    },
+    {
+      "title": "GENDER-QUEER/NON-BINARY GENDER",
+      "desc": "All persons whose gender identity does not fall on the binary gender spectrum (male and female)."
+    },
+    {
+      "title": "GENDER ROLE",
+      "desc": "Social construct regarding the behaviours related to male and female identities, which establish the characteristics that are used to define the male and female genders. This social construction varies according to culture and time."
+    },
+    {
+      "title": "GREYSEXUAL",
+      "desc": "A person who experiences their sexual desire/attraction in an intermediate (grey) area between allosexuality and asexuality."
+    },
+    {
+      "title": "HETEROSEXISM",
+      "desc": "The assumption that everyone is heterosexual and that monogamous heterosexuality is the norm. Institutionalised heterosexism refers to heterosexism that is deeply embedded in society and is systematic or structural; it causes LGB people to feel invisible or isolated."
+    },
+    {
+      "title": "HETEROSEXUAL",
+      "desc": "Sexual orientation of a person who is attracted to people of a gender other than their own."
+    },
+    {
+      "title": "HOMOPHOBIA",
+      "desc": "Discrimination, hatred, invisibilisation and other forms of violence based on prejudice and stigma towards homosexual persons."
+    },
+    {
+      "title": "INTERNALISED HOMOPHOBIA",
+      "desc": "The conscious or unconscious belief held by some LGBTI people that prejudices, stereotypes and myths about LGBTI are true. In other words, they are negative feelings they have towards themselves because of their orientation/identity."
+    },
+    {
+      "title": "INTERSECTIONALITY",
+      "desc": "The interaction between two or more social factors that define an individual. Sex, gender, place of origin, socio-economic class, sexual orientation, abilities, like other categories, are interrelated, giving rise to inequalities and a greater vulnerability to discrimination."
+    },
+    {
+      "title": "INTERSEX / INTERSEXUALITIES",
+      "desc": "A term used refer to a group of conditions in which there is a discrepancy between sexual characteristics an individual is born with (variations in the genitalia, gonads, hormone levels and/or chromosomal patterns)."
+    },
+    {
+      "title": "LESBIAN",
+      "desc": "Sexual orientation of women who are emotionally and/or physically attracted to other women."
+    },
+    {
+      "title": "LESBOPHOBIA",
+      "desc": "Discrimination, hatred, invisibilisation and other forms of violence based on prejudice and stigma towards lesbian women. It differs from homophobia in that the forms of violence and oppression are gender-specific."
+    },
+    {
+      "title": "LGBT MIGRATION",
+      "desc": "People who, because of their sexual and gender orientation, leave their places of origin. It involves exile and migratory movements to places where they can live their sexuality more freely."
+    },
+    {
+      "title": "LGBTI-PHOBIA",
+      "desc": "Discrimination, hatred, invisibilisation and other forms of violence based on prejudice and stigma towards people because of their sexual orientation, gender identity and/or gender expression."
+    },
+    {
+      "title": "MINORITY STRESS",
+      "desc": "A theory that argues that LGBTI people have higher levels of stress due to the fact that they may suffer discrimination because of prejudice and stigma towards them."
+    },
+    {
+      "title": "MISOGYNY",
+      "desc": "Discrimination, hatred, invisibilisation and other forms of violence against women and women's issues."
+    },
+    {
+      "title": "MOGAI",
+      "desc": "An acronym standing for Marginalised Orientations, Gender Alignments and Intersex."
+    },
+    {
+      "title": "MSM",
+      "desc": "Heterosexual men who have sex with other men."
+    },
+    {
+      "title": "PANSEXUAL",
+      "desc": "Sexual orientation of the person who feels attracted towards any gender, bearing in mind that there are not only two sexes (non-binary), with the focus of desire being the person and not sexuality."
+    },
+    {
+      "title": "PASSING",
+      "desc": "A term that refers to the fact that trans people are perceived as having a cisgender identity."
+    },
+    {
+      "title": "POLYAMORY",
+      "desc": "Within non-monogamous relationships, it is a romantic or romantic-sexual relationship between more than two people in a consensual, conscious and ethical way."
+    },
+    {
+      "title": "POLYSEXUAL",
+      "desc": "A person who is sexually and romantically attracted to multiple genders (non-binary) but not necessarily all of them or with the same intensity."
+    },
+    {
+      "title": "QUEER",
+      "desc": "A current of critical thought (from the 80s and 90s onwards) that seeks to promote diversity and human difference in a broad sense, while avoiding static identities and advocating versatility and variety as a richness of people, considering that labels generate social hierarchies."
+    },
+    {
+      "title": "QUESTIONING",
+      "desc": "People who are in a process of questioning their orientation and/or identity."
+    },
+    {
+      "title": "SEX ASSIGNED AT BIRTH",
+      "desc": "A term that refers to the sex organ assigned at birth (male, female, intersex)."
+    },
+    {
+      "title": "SEXUAL ORIENTATION",
+      "desc": "The physical, spiritual or emotional attraction a person feels towards other people. Orientation can vary in terms of both the object of desire and the level of desire."
+    },
+    {
+      "title": "STRAIGHT",
+      "desc": "Heterosexual, a person who is emotionally or physically attracted to someone of a different sex."
+    },
+    {
+      "title": "TRANS(GENDER)",
+      "desc": "Umbrella term used to describe different variants of transgression/ transition/ assertion of people whose gender expression and/or identity does not align with their sex assigned at birth."
+    },
+    {
+      "title": "TRANSPHOBIA",
+      "desc": "Discrimination, hatred, invisibilisation and other forms of violence based on prejudice and stigma towards transgender people."
+    },
+    {
+      "title": "TRANSVESTITE",
+      "desc": "A person who wears clothing and accessories that have been socioculturally defined as appropriate for people of another gender, but who does not necessarily identify with that gender. "
+    },
+    {
+      "title": "WSW",
+      "desc": "Heterosexual women who have sex with other women."
+    }
+  ],
+
+  "gameWords": [
+    {
+      "letter": "A",
+      "title": "Asexual",
+      "desc": "Sexual orientation of a person who does not feel an erotic attraction towards other people. They may engage in emotional and romantic relationships. It does not necessarily mean not having a libido, or not having sex, or not being able to feel arousal."
+    },
+    {
+      "letter": "B",
+      "title": "Bisexual",
+      "desc": "A type of sexual orientation in which one is attracted to both men and women, indistinctly."
+    },
+    {
+      "letter": "C",
+      "title": "Cisgender",
+      "desc": "Person who perceives that their gender identity and/or gender role coincides -socially speaking- with the sex assigned at birth."
+    },
+    {
+      "letter": "D",
+      "title": "Demisexual",
+      "desc": "A person who will not be sexually attracted to anyone, regardless of their gender, unless they form an emotional bond with them (usually when they fall in love)."
+    },
+    {
+      "letter": "E",
+      "title": "Endohomophobia",
+      "desc": "Discrimination against LGBTI people by members of the LGBTI community itself."
+    },
+    {
+      "letter": "F",
+      "title": "Feminine",
+      "desc": "Social construct regarding gender that represents the characteristics, behaviours and roles that are socioculturally attributed to women."
+    },
+    {
+      "letter": "G",
+      "title": "Gender-fluid",
+      "desc": "A person who does not identify with a single gender identity, but who flows between several over time."
+    },
+    {
+      "letter": "H",
+      "title": "Heteronormativity",
+      "desc": "The dominant ideology in our society on the basis of which heterosexual relationships are established as the norm and standard to be followed. That is, the belief that all people are heterosexual until they prove otherwise."
+    },
+    {
+      "letter": "I",
+      "title": "Intersexual",
+      "desc": "Person born with both male and female biological and anatomical characteristics to varying degrees and at different levels."
+    },
+    {
+      "letter": "K",
+      "title": "Drag King",
+      "desc": "Female performing artists who embody male gender stereotypes as part of their performances.",
+      "contains": true
+    },
+    {
+      "letter": "L",
+      "title": "Lesbophobia",
+      "desc": "Rejection of women who are only attracted to other women."
+    },
+    {
+      "letter": "M",
+      "title": "Masculine",
+      "desc": "Social construct regarding gender that represents the characteristics, behaviours and roles that are socioculturally attributed to men."
+    },
+    {
+      "letter": "N",
+      "title": "Non-binary",
+      "desc": "People who do not identify with the male or female gender and who construct their identity outside the binary logic, defending the existence of more than two genders."
+    },
+    {
+      "letter": "O",
+      "title": "Sexual Orientation",
+      "desc": "The physical, spiritual or emotional attraction a person feels towards other people. Orientation can vary in terms of both the object of desire and the level of desire.",
+      "contains": true
+    },
+    {
+      "letter": "P",
+      "title": "Polyamory",
+      "desc": "Within non-monogamous relationships, it is a romantic or romantic-sexual relationship between more than two people in a consensual, conscious and ethical way."
+    },
+    {
+      "letter": "Q",
+      "title": "Queer",
+      "desc": "Literally, strange, unusual. Theory concerning gender that asserts that people's sexual orientation and gender identity are a social, non-binary construct."
+    },
+    {
+      "letter": "R",
+      "title": "Gender role",
+      "desc": "Social and cultural codes that are used to distinguish between what are considered 'masculine' and 'feminine' aspects, attitudes, behaviours or feelings in a society.",
+      "contains": true
+    },
+    {
+      "letter": "S",
+      "title": "Stigma",
+      "desc": "A condition, attribute, trait or behaviour that causes a person to be included in a social category whose members are viewed in a negative way and are considered as culturally unacceptable or inferior."
+    },
+    {
+      "letter": "T",
+      "title": "Transphobia",
+      "desc": "Discrimination, aversion and rejection of transsexual or transgender persons, as well as transsexuality or its manifestations."
+    },
+    {
+      "letter": "V",
+      "title": "Transvestite",
+      "desc": "A person who wears clothing and accessories that have been socioculturally defined as appropriate for people of another sex.",
+      "contains": true
+    },
+    {
+      "letter": "W",
+      "title": "WSW",
+      "desc": "Heterosexual women who have sex with other women."
+    },
+    {
+      "letter": "Y",
+      "title": "Gay",
+      "desc": "Men who are exclusively attracted to other men.",
+      "contains": true
+    }
+  ]
+}
