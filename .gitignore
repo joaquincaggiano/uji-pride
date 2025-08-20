@@ -40,6 +40,7 @@ npm-debug.log
 yarn-error.log
 
 !debug.keystore
+.kotlin/
 
 # fastlane
 #
