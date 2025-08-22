@@ -1,9 +1,9 @@
-import React, {FC, useEffect, useRef, useState} from 'react';
-import {NativeStackScreenProps} from '@react-navigation/native-stack';
-import {getAppStyle, spacing} from '../../theme';
-import {NavigatorParamList} from '../../navigators';
-import {AppModal, AppWebView, Screen, Text} from '../../components';
-import {BackHandler, Platform, Pressable, View} from 'react-native';
+import React, { FC, useEffect, useRef, useState } from 'react';
+import { NativeStackScreenProps } from '@react-navigation/native-stack';
+import { getAppStyle, spacing } from '../../theme';
+import { NavigatorParamList } from '../../navigators';
+import { AppModal, AppWebView, Screen, Text } from '../../components';
+import { BackHandler, Platform, Pressable, View } from 'react-native';
 import ShareIcon from '../../../assets/icons/information-circle-outline.svg';
 import CloseIcon from '../../../assets/icons/close.svg';
 
@@ -11,7 +11,7 @@ const UJI_PUBLICATIONS_URL = 'https://repositori.uji.es/xmlui/';
 
 export const PublicationsScreen: FC<
   NativeStackScreenProps<NavigatorParamList, 'publications'>
-> = ({navigation}) => {
+> = ({ navigation }) => {
   const appStyle = getAppStyle();
   const textStyles = {
     titleModal: {
@@ -24,15 +24,15 @@ export const PublicationsScreen: FC<
       ...appStyle.mainTextColor,
       ...appStyle.textM,
       lineHeight: 20,
-    }
+    },
   };
 
-  const [openModal, setOpenModal] = useState(true);
+  const [openModal, setOpenModal] = useState(false);
 
   useEffect(() => {
     navigation.setOptions({
       headerRight: () => (
-        <View style={{top: 4}}>
+        <View style={{ top: 4 }}>
           <Pressable onPress={() => setOpenModal(true)}>
             <ShareIcon width={24} height={24} />
           </Pressable>
@@ -43,13 +43,11 @@ export const PublicationsScreen: FC<
 
   useEffect(() => {
     if (Platform.OS === 'android') {
-      BackHandler.addEventListener('hardwareBackPress', onAndroidBackPress);
-      return () => {
-        BackHandler.removeEventListener(
-          'hardwareBackPress',
-          onAndroidBackPress,
-        );
-      };
+      const backHandler = BackHandler.addEventListener(
+        'hardwareBackPress',
+        onAndroidBackPress,
+      );
+      return () => backHandler.remove();
     }
   }, []);
 
@@ -80,26 +78,28 @@ export const PublicationsScreen: FC<
       backgroundColor={appStyle.screen.backgroundColor}
       style={[
         appStyle.screen,
-        {paddingHorizontal: 0, paddingBottom: 0, paddingTop: spacing.xxsmall},
-      ]}>
+        { paddingHorizontal: 0, paddingBottom: 0, paddingTop: spacing.xxsmall },
+      ]}
+    >
       <AppModal visible={openModal} onPressOutside={() => setOpenModal(false)}>
         <View
           style={{
             alignSelf: 'center',
-            width: "90%",
+            width: '90%',
             backgroundColor: 'white',
             borderRadius: 10,
             padding: spacing.large,
-          }}>
+          }}
+        >
           <Pressable
             onPress={() => setOpenModal(false)}
-            style={{flexDirection: 'row-reverse'}}>
-            <CloseIcon
-              width={24}
-              height={24}
-            />
+            style={{ flexDirection: 'row-reverse' }}
+          >
+            <CloseIcon width={24} height={24} />
           </Pressable>
-          <View style={{paddingHorizontal: 10, paddingBottom: spacing.xxlarge}}>
+          <View
+            style={{ paddingHorizontal: 10, paddingBottom: spacing.xxlarge }}
+          >
             <Text
               style={{
                 ...textStyles.titleModal,

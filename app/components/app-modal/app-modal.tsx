@@ -1,31 +1,54 @@
-import * as React from "react"
-import { Dimensions } from "react-native"
-import Modal from "react-native-modal"
+import * as React from 'react';
+import {
+  Modal,
+  View,
+  TouchableWithoutFeedback,
+  Dimensions,
+  StyleSheet,
+} from 'react-native';
 
 interface AppModalProps {
-  children: React.ReactNode
-  visible: boolean
-  onPressOutside?: () => void
-  animationOutTiming?: number
+  children: React.ReactNode;
+  visible: boolean;
+  onPressOutside?: () => void;
+  animationOutTiming?: number;
 }
-const {height, width} = Dimensions.get('screen');
+
+const { height, width } = Dimensions.get('screen');
 
 export const AppModal = (props: AppModalProps) => {
   return (
     <Modal
-      animationIn={"fadeIn"}
-      animationOut={"fadeOut"}
-      animationOutTiming={props.animationOutTiming}
-      isVisible={props.visible}
-      onBackButtonPress={props.onPressOutside}
-      onBackdropPress={props.onPressOutside}
-      useNativeDriver={true}
-      useNativeDriverForBackdrop={true}
-      deviceHeight={height}
-      deviceWidth={width}
+      animationType="fade"
+      transparent={true}
+      visible={props.visible}
+      onRequestClose={props.onPressOutside}
       statusBarTranslucent
-      avoidKeyboard>
-      {props.children}
+    >
+      <TouchableWithoutFeedback onPress={props.onPressOutside}>
+        <View style={styles.overlay}>
+          <TouchableWithoutFeedback onPress={() => {}}>
+            <View style={styles.content}>{props.children}</View>
+          </TouchableWithoutFeedback>
+        </View>
+      </TouchableWithoutFeedback>
     </Modal>
-  )
-}
+  );
+};
+
+const styles = StyleSheet.create({
+  overlay: {
+    flex: 1,
+    backgroundColor: 'rgba(0, 0, 0, 0.5)',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  content: {
+    backgroundColor: 'white',
+    borderRadius: 8,
+    padding: 20,
+    margin: 20,
+    maxWidth: width - 40,
+    maxHeight: height - 40,
+  },
+});
